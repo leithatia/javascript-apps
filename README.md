@@ -1,2 +1,2 @@
 # javascript-apps
-A collection of simple apps to practice JavaScript
+A collection of apps to practice JavaScript
